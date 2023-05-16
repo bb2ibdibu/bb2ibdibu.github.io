@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>Apply Google domain and combine with Github</title>
+      <link href="/2023/05/15/apply-google-domain-and-combine-with-github/"/>
+      <url>/2023/05/15/apply-google-domain-and-combine-with-github/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Apply-Google-domain-and-combine-with-Github"><a href="#Apply-Google-domain-and-combine-with-Github" class="headerlink" title="Apply Google domain and combine with Github"></a>Apply Google domain and combine with Github</h1><ol><li>Get your domain from google domains or Aliyun.</li><li>Paying </li><li>Click DNS and do following steps same.</li></ol><p><img src="https://hexo-s3.s3.ap-northeast-1.amazonaws.com/ImagesForConfigureDomain/1.png"></p><ol start="4"><li>Fill the black block with your <code>&lt;xxxxxxx.io&gt;</code></li></ol><p><img src="https://hexo-s3.s3.ap-northeast-1.amazonaws.com/ImagesForConfigureDomain/2.png"></p><ol start="5"><li>Copy domain to Custom domain field on the Github pages</li></ol><p><img src="https://hexo-s3.s3.ap-northeast-1.amazonaws.com/ImagesForConfigureDomain/3.png"></p><ol start="6"><li>Copy and paste the 2 code lines into following blue block and red block sequentially.</li></ol><p><img src="https://hexo-s3.s3.ap-northeast-1.amazonaws.com/ImagesForConfigureDomain/4.png"></p><ol start="7"><li>Done.</li></ol>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Github </tag>
+            
+            <tag> Google domain </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Fine tuning with YouTube URL</title>
       <link href="/2023/04/25/get-youtube-url-and-finetuning/"/>
       <url>/2023/04/25/get-youtube-url-and-finetuning/</url>
@@ -29,27 +50,19 @@
     
     
     <entry>
-      <title>test</title>
-      <link href="/2023/02/25/123-47bacc13cee14c21aa4a6ed2ac92c762/"/>
-      <url>/2023/02/25/123-47bacc13cee14c21aa4a6ed2ac92c762/</url>
+      <title>S3</title>
+      <link href="/2023/04/25/s3imagedemo/"/>
+      <url>/2023/04/25/s3imagedemo/</url>
       
-        <content type="html"><![CDATA[<h1 id="123"><a href="#123" class="headerlink" title="123"></a>123</h1><p><span class="github-emoji"><span>😄</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span><br>123</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="S3ImageDemo"><a href="#S3ImageDemo" class="headerlink" title="S3ImageDemo"></a>S3ImageDemo</h1><ol><li>login AWS console and search S3.</li><li>Create a bucket.</li><li>uncheck the “Block all public access” and check the Warning.</li><li>must uncheck the check box, and then can be able to access from public.</li><li>upload the image or something else you want. (Check the ACL right while uploading, otherwise can not be able to access from public)<br><img src="https://hexo-s3.s3.ap-northeast-1.amazonaws.com/ImagesForS3/ACL_configure.png"></li><li>click the “copy URL” button to article image url embedding, done.</li></ol>]]></content>
       
-      
-      <categories>
-          
-          <category> Life_1212 </category>
-          
-          <category> Life_2 </category>
-          
-      </categories>
       
       
         <tags>
             
-            <tag> Work_1 </tag>
+            <tag> AWS </tag>
             
-            <tag> Work_3 </tag>
+            <tag> S3 </tag>
             
         </tags>
       
@@ -58,7 +71,28 @@
     
     
     <entry>
-      <title>Hello World</title>
+      <title>test</title>
+      <link href="/2023/02/25/123-47bacc13cee14c21aa4a6ed2ac92c762/"/>
+      <url>/2023/02/25/123-47bacc13cee14c21aa4a6ed2ac92c762/</url>
+      
+        <content type="html"><![CDATA[<p><a href="https://domains.google/static/images/logo/new_logo.svg">https://domains.google/static/images/logo/new_logo.svg</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> AWS </tag>
+            
+            <tag> S3 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello Hero</title>
       <link href="/2023/02/11/hello-world/"/>
       <url>/2023/02/11/hello-world/</url>
       
